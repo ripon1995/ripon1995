@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripon1995&show_icons=true&locale=en&layout=compact" alt="rootless" /></p>
 
-[![rootless's GitHub stats](https://github-readme-stats.vercel.app/api?username=ripon1995&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![rootless's GitHub stats](https://github-readme-stats.vercel.app/api?username=ripon1995&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripon1995&" alt="rootless" /></p>
